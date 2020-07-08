@@ -1,0 +1,89 @@
+.sign-btn{
+display: flex;
+flex-direction: row;
+padding: 9px 22px;
+background: #21B573;
+border-radius: 15px;
+color: white !important;
+    
+}
+.sub-button{
+    background-image: linear-gradient(to left,#009933 0%, #21B573 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 20px;
+    cursor: pointer;
+}
+.bg-color{
+    background: #F0FFF0;
+}
+.text-justify{
+    margin-left: 85px;
+    margin-right: 85px;
+}
+.span-shadow{
+    border: none;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 10px;
+    background: #F8FFFB;
+    padding: 35px;
+    width: 250px;
+}
+span{
+    margin-top: 50px;
+}
+.buy-now-button{
+    background-image: linear-gradient(to left,#009933 0%, #21B573 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.card{
+    border: none;
+    box-shadow: 10px 5px 10px lightgrey;
+    border-radius: 15px;
+    padding: 15px 15px;
+    margin: 50px 80px;
+}
+.card-footer{
+    background-color: white;
+    border: none;
+}
+.p{
+    text-align: justify;
+}
+.link-div{
+    background-color: black;
+    color: white;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.last-things{
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+footer{
+    text-align: center;
+    color: gray;
+}
+li{
+    margin-left: 25px;
+}
+.navpic{
+    margin-left: 78px;
+}
+.intro{
+    margin-top: 40px;
+}
+.small-head{
+    color: #00e673;
+}
+.big-head{
+    color: yellowgreen;
+}
+.rounded{
+    margin-top: 30px;
+}
